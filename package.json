@@ -1,0 +1,38 @@
+{
+  "name": "benchpress",
+  "version": "0.0.1",
+  "description": "A benchmark runner library built on top of trusted benchmark-js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamasis Bhattacharya <mail@shamasis.net>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^2.6.1",
+    "benchmark": "^2.1.4",
+    "miniargs": "^0.1.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "bin": {
+    "benchpress": "./bin/benchpress.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamasis/benchpress.git"
+  },
+  "keywords": [
+    "benchmark",
+    "benchmark-js",
+    "mocha",
+    "test",
+    "runner"
+  ],
+  "bugs": {
+    "url": "https://github.com/shamasis/benchpress/issues"
+  },
+  "homepage": "https://github.com/shamasis/benchpress#readme"
+}
