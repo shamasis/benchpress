@@ -1,5 +1,7 @@
 # Benchpress
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shamasis/benchpress.svg)](https://greenkeeper.io/)
+
 This is a module that runs describe-it syntax tests as benchmarks. This module is still under development.
 
 ## Usage
